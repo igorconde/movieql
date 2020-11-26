@@ -7,6 +7,7 @@
   "author": "Igor Conde",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.21.0",
     "global": "^4.4.0",
     "graphql-yoga": "^1.18.3",
     "nodemon": "^2.0.6"
